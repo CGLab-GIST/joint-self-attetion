@@ -51,7 +51,7 @@ Please install docker and nvidia-docker.
     ./run_docker.sh
     ```
 ## Test with a pre-trained network
-1. Setup configurations in `config.py`. Please move example data ([download](https://drive.google.com/file/d/1poySvL50ZVnTCRG3OHesvs8WHjkw1svN/view?usp=drive_link)) to 'data/__test_scenes__/' and pretrained checkpoint ([download](https://drive.google.com/file/d/1OD69MeY6JKq084F3B0krwnOGN-9mAPri/view?usp=drive_link)) to 'data/jsa_pretrained/__checkpoints__/'
+1. Setup configurations in `config.py`. Please move example data ([download](https://drive.google.com/file/d/1poySvL50ZVnTCRG3OHesvs8WHjkw1svN/view?usp=drive_link)) to 'data/\_\_test_scenes\_\_/' and pretrained checkpoint ([download](https://drive.google.com/file/d/1OD69MeY6JKq084F3B0krwnOGN-9mAPri/view?usp=drive_link)) to 'data/jsa_pretrained/\_\_checkpoints\_\_/'
 
     ```    
     # =======================================
@@ -116,7 +116,7 @@ Please install docker and nvidia-docker.
 
 ## License
 
-All source codes are released under a [BSD License](license).
+All source codes are released under a BSD License.
 
 ## Citation
 ```
